@@ -1,0 +1,2 @@
+backend/app/ml/rf_model.pkl filter=lfs diff=lfs merge=lfs -text
+backend/app/ml/credit_card_transactions.csv filter=lfs diff=lfs merge=lfs -text
