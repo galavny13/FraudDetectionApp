@@ -10,7 +10,7 @@ This project demonstrates an end-to-end **fraud detection** workflow:
    - Runs a **Machine Learning (RandomForest)** model to predict fraudulent transactions.
    - The model was trained on a credit card transactions dataset of 1.3 million real credit card transactions from kaggle. 
    - Stores transaction records in **PostgreSQL**.  
-   - Sends email alerts (via **SendGrid**) if suspicious transactions are found.
+   - Sends email alerts (via **SendGrid**) if suspicious transactions are found (You should update the .env file with your sendgrid api key, and your from email).
 
 2. **Frontend (React Native)**  
    - Uses the camera or file picker to upload statements from a mobile device.  
