@@ -1,4 +1,4 @@
-# Pyrite Fraud Detection Project
+# Fraud Detection Project
 
 ## Overview
 
